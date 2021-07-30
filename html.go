@@ -1,4 +1,4 @@
-package html
+package curso
 
 
 func Titulo(urls ...string) <-chan string {
